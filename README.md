@@ -1,6 +1,7 @@
 # node-ts-template
 
 Just an empty server to spin up Node.js a bit faster.
+I prefer Typescript when feasible, so yeah... it's Typescript.
 
 ## Typescript
 
