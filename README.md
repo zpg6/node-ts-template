@@ -51,3 +51,5 @@ http://localhost:9000/
 Serve a static file (checks permissions)
 http://localhost:9000/running
 ```
+
+![](http://zachgrimaldi.com/node-ts-template-demo.png)
