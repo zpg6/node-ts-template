@@ -1,7 +1,5 @@
 # node-ts-template
 
-![counter](https://rushter.com/counter.svg)
-
 Just an empty server to spin up Node.js a bit faster.
 I prefer Typescript when feasible, so yeah... it's Typescript.
 
